@@ -10,6 +10,12 @@ Consecuentemente, graficamos las variables a las cuales el modelo da mayor impor
 
 Por último, nuestro modelo obtuvo un porcentaje de precisión del 82.02%, lo cual nos indica que es un modelo aceptable para la toma de decisiones en base al pensamiento estadístico. 
 
+Después del análisis estadístico, una de las variables más importantes que nos regresa el modelo, es la importancia de cada una de sus variables, es decir, a cuales les da más peso/valor a ña hora de hacer el proceso de clasificación, en donde en nuestro caso del dataset, fueron las siguientes.
+
+<img width="470" alt="Captura de Pantalla 2022-09-08 a la(s) 15 53 24" src="https://user-images.githubusercontent.com/111082680/189224181-921f74da-5253-4a0c-a88b-44ed24a7050a.png">
+
+Como podemos ver, el sexo (masculino, femenino) es la variable con mayor peso en nuestro modelo.
+
 Para saber el comportamiento de nuestro modelo modelo, utilizamos las siguientes aplicaciones:
 
 * Learning Curve
