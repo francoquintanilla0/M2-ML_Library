@@ -25,10 +25,11 @@ Después de esto, hicimos algunas (5) predicciones para corroborar el Accuracy S
 * Modelo 5
 <img width="646" alt="Captura de Pantalla 2022-09-13 a la(s) 12 03 42" src="https://user-images.githubusercontent.com/111082680/189964142-8e80a6c2-d319-49d1-9778-a689a2be10b4.png">
 
-En donde calculamos el Accuracy Score para cada uno, y los resultados fueron los siguientes: 
+En donde calculamos el Accuracy Score para cada uno, y los resultados fueron los siguientes:
+
 <img width="285" alt="Captura de Pantalla 2022-09-13 a la(s) 12 03 49" src="https://user-images.githubusercontent.com/111082680/189964267-abb7b515-f669-428d-a581-0389c47bd3d0.png">
 
-Después, calculamos la media de todos los Accuracy Scores, para ver que tan bien se desempeñaba el modelo, el resultado fue que la media de los Accuracy scores era del 0.8022, lo cual es un resultado muy bueno.
+Después, calculamos la media de todos los Accuracy Scores, para ver que tan bien se desempeñaba el modelo, el resultado fue que la media de los Accuracy scores era del **0.8022**, lo cual es un resultado muy bueno.
 
 Como podemos ver, el modelo que obtuvo un porcentaje de precisión más alto fue el de 82.58%, lo cual nos indica que es un modelo aceptable para la toma de decisiones en base al pensamiento estadístico. 
 
